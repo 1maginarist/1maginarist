@@ -6,7 +6,6 @@ Skills: Python / JS / HTML / CSS / Solidity / Rust / C++ / C# / SQL / Linux
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1maginarist)  
 
 ![GitHub metrics](https://metrics.lecoq.io/1maginarist)  
 
