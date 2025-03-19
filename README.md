@@ -2,7 +2,9 @@
 #### Backend Python Developer. 
 I'm currently working with Python, JS, Telegram bots and other automation. I study Solidity and Rust for blockchain development, I would like to write smart contracts and also become a full-stack developer in web3 in the future.
 
-Skills: Python / JS / HTML / CSS / Solidity / Rust / C++ / C# / SQL / Linux
+Strong skills: Python / Git / SQL / Bash / JS / HTML / CSS / AWS S3
+
+Emerging skills: C++ / C# / Solidity / Rust / Docker
 
 
 
